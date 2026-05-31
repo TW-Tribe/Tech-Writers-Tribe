@@ -9,9 +9,10 @@ labels: documentation
 <!-- Describe the feature, API, or process that needs docs -->
 
 ## Who is the audience?
-- [ ] End users
-- [ ] - [ ] Developers / API consumers
-- [ ] - [ ] Internal team
+
+[ ] End users
+[ ] Developers / API consumers
+[ ] Internal team
 
 ## What is the deadline or release date?
 
