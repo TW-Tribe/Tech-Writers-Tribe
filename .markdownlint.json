@@ -1,16 +1,5 @@
-Example configuration:
-
 {
   "MD013": false,
   "MD041": true,
   "MD022": true
 }
-
-This means:
-
-| Rule	| Purpose |
-| --- | --- |
-| MD013	| Ignore long lines |
-| MD041	| Require a top-level heading |
-| MD022	| Require blank lines around headings |
-
