@@ -1,4 +1,5 @@
-# TaskFlow API Reference  
+# TaskFlow API Reference
+
 ---
 Base URL: https://api.taskflow.io/v1 
 Authentication: Bearer token in Authorization header  
@@ -11,7 +12,8 @@ Authentication: Bearer token in Authorization header
 | priority | string | No | low, medium, or high. Default: medium |
 | assignee_id | integer | No | User ID of the assignee |
   
-### Example request 
+### Example request
+
 ```bash
 curl -X POST https://api.taskflow.io/v1/tasks \
   -H 'Authorization: Bearer YOUR_TOKEN' \
